@@ -1,19 +1,14 @@
 ### Hi there 👋
 
+### 🪐 About Me
+👋 My name is Demetra Hadjicosti!
+👩‍🎓 I have a Bachelor's in Computer Science!
+📚 I am currently doing my Master's in Human-Computer Interaction at Utrecht University!
 
-![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=#0A66C2]
+### ⚒️ Interests
+🤗 My interests revolve around designing and developing solutions that enhance User Experience! 
+💻 I mostly enjoy working on the Front-End!
 
-<!--
-**dhadji02/dhadji02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links and Details!
+📧 dem.hadjicosti@outlook.com
+You can find me on ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]
