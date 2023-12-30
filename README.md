@@ -1,16 +1,16 @@
 # Hi there 👋
 
 ## 🪐 About Me
-👋 My name is Demetra Hadjicosti!
+👧 My name is Demetra Hadjicosti!
 
-👩‍🎓 I have a Bachelor's in Computer Science!
+👩‍🎓 I have a Bachelor's in Computer Science for University of Cyprus.
 
-📚 I am currently doing my Master's in Human-Computer Interaction at Utrecht University!
+📚 I am currently doing my Master's in Human-Computer Interaction at Utrecht University.
 
 ## ⚒️ Interests
-🤗 My interests revolve around designing and developing solutions that enhance User Experience! 
+🤗 My interests revolve around designing and developing solutions that enhance User Experience!
 
-💻 I mostly enjoy working on the Front-End!
+💻 I mostly enjoy working on the Front-End.
 
 ## 🔗 Links
 📧 dem.hadjicosti@outlook.com
