@@ -15,6 +15,6 @@
 ## 🔗 Links
 📧 dem.hadjicosti@outlook.com
 
-You can find me on: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetrahadjicosti/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetrahadjicosti/)
 
 
