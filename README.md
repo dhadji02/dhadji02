@@ -12,7 +12,7 @@
 
 💻 I mostly enjoy working on the Front-End!
 
-## 🔗 Links and Details!
+## 🔗 Links
 📧 dem.hadjicosti@outlook.com
 
 You can find me on:
