@@ -3,7 +3,7 @@
 ## 🪐 About Me
 👧 My name is Demetra Hadjicosti!
 
-👩‍🎓 I have a Bachelor's in Computer Science for University of Cyprus.
+👩‍🎓 I have a Bachelor's in Computer Science from University of Cyprus.
 
 📚 I am currently doing my Master's in Human-Computer Interaction at Utrecht University.
 
