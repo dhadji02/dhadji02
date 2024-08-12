@@ -5,7 +5,7 @@
 
 👩‍🎓 I have a Bachelor's in Computer Science from University of Cyprus.
 
-📚 I am currently doing my Master's in Human-Computer Interaction at Utrecht University.
+👩‍🎓 I have a Master's in Human-Computer Interaction from Utrecht University.
 
 ## ⚒️ Interests
 🤗 My interests revolve around designing and developing solutions that enhance User Experience!
